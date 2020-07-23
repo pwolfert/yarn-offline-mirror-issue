@@ -1,0 +1,9 @@
+{
+  "name": "yarn-offline-mirror-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "https://github.com/piuccio/cowsay.git#05b895f06c750e83be4d31ad970e3563f6063e0a"
+  }
+}
